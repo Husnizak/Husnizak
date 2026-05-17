@@ -1,137 +1,137 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,30:1E3A8A,60:2563EB,100:38BDF8&text=Husni.Zak&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,40:1E3A8A,80:2563EB,100:38BDF8&text=Husni.Zak&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Web%20Developer%20%E2%80%94%20Crafting%20Digital%20Experiences&descAlignY=60&descSize=15&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=900&lines=Engineering+Modern+Digital+Experiences;Scalable+Web+Applications;Premium+UI%2FUX+Focused+Development;High-Performance+Frontend+Architecture;Freelance+Full-Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Engineering+precision+meets+visual+intention.;React+%E2%80%94+Next.js+%E2%80%94+Node.js+%E2%80%94+Firebase;Building+interfaces+that+endure.;Open+for+freelance+%26+collaboration." />
 
-<br/>
+<br/><br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-FullStack_Development-1E3A8A?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-React_&_Next.js-2563EB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Premium_Interfaces-0F172A?style=for-the-badge" />
-</p>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mysql,postgresql,firebase,figma,git,github,vscode&theme=dark" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://linkedin.com/in/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=60A5FA)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=60A5FA)](https://YOUR_PORTFOLIO)
+[![Status](https://img.shields.io/badge/●%20Available%20for%20Projects-1E3A8A?style=for-the-badge&logoColor=white)](https://github.com/Husnizak)
 
 </div>
 
 ---
 
-## About Me
+## &nbsp;About
 
-Driven by the ambition to craft digital experiences that feel timeless, modern, and purposeful.
+I build web applications where **engineering precision meets visual intention** — products that are fast, refined, and built to last. My work sits at the intersection of scalable architecture and interface design, with attention to the moments that make digital experiences feel considered rather than assembled.
 
-I specialize in developing scalable web applications with refined UI/UX, performance-focused architecture, and clean engineering systems. My work centers around creating premium digital products that combine visual clarity with functional precision — from modern business platforms to interactive web experiences.
-
-Focused on continuous growth in frontend engineering, scalable systems, and modern development ecosystems using technologies such as React, Next.js, Tailwind CSS, Node.js, and Firebase.
-
-Building with the mindset that great digital products should not only work flawlessly — but also leave a lasting impression.
-
----
-
-## Engineering Philosophy
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Scalable%20Architecture-0F172A?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Clean%20Engineering-1E3A8A?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Premium%20UI%2FUX-2563EB?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Performance%20Focused-38BDF8?style=for-the-badge&logoColor=white" />
-
-</div>
-
----
-
-## Tech Ecosystem
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript,nodejs,express,mysql,postgresql,firebase,figma,git,github,vscode&theme=dark" />
-
-<br/>
-<br/>
-
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend%20Development&align=center&titleAlign=center&lineCount=2&theme=github_dark&line1=react%2CReact%2C61DAFB%3Bnextdotjs%2CNext.js%2CFFFFFF%3Btailwindcss%2CTailwind%2C38BDF8%3B&line2=typescript%2CTypeScript%2C3178C6%3Bjavascript%2CJavaScript%2CF7DF1E%3Bfigma%2CFigma%2CF24E1E%3B" />
-
-<br/>
-
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend%20%26%20Infrastructure&align=center&titleAlign=center&lineCount=2&theme=github_dark&line1=node.js%2CNode.js%2C339933%3Bexpress%2CExpress.js%2CFFFFFF%3Bfirebase%2CFirebase%2CFFCA28%3B&line2=mysql%2CMySQL%2C4479A1%3Bpostgresql%2CPostgreSQL%2C4169E1%3Bgit%2CGit%2CF05032%3B" />
-
-</div>
-
----
-
-## Current Focus
+Currently focused on frontend systems, backend scalability, and the craft of building things that hold up over time.
 
 ```txt
-Frontend Engineering      ████████████████░░   92%
-UI/UX Systems             ███████████████░░░   88%
-Backend Scalability       █████████████░░░░░   80%
-System Architecture       ████████████░░░░░░   74%
-Cloud & Deployment        ██████████░░░░░░░░   65%
+Location   →  Indonesia / Remote
+Focus      →  Full-Stack Development, UI/UX Engineering
+Status     →  Open to freelance & collaboration
 ```
 
 ---
 
-## Featured Projects
-
-### Ornamental Fish Commerce Ecosystem
-
-A modern international e-commerce ecosystem engineered for premium ornamental fish distribution with responsive architecture and immersive UI/UX.
-
-`React` `Next.js` `Tailwind CSS` `Firebase`
-
----
-
-### WonoCashew Export Platform
-
-Professional export business platform designed for global presentation, scalable infrastructure, and modern digital branding.
-
-`React` `Tailwind CSS` `Framer Motion`
-
----
-
-### Analytics Dashboard System
-
-Interactive analytics environment transforming complex business data into modern and actionable visualization systems.
-
-`React` `Chart.js` `MySQL`
-
----
-
-## GitHub Analytics
+## &nbsp;Tech Stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Husnizak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=CBD5E1" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,postgresql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husnizak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1" />
+<br/><br/>
 
-<br/>
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Husnizak&theme=github_dark" />
-
-<br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Husnizak&theme=github_dark" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Husnizak&theme=github_dark" />
+| Frontend | Backend | Database | Tooling |
+|:---:|:---:|:---:|:---:|
+| React | Node.js | MySQL | Figma |
+| Next.js | Express.js | PostgreSQL | Git / GitHub |
+| Tailwind CSS | Firebase | Firestore | VS Code |
+| TypeScript | REST API | — | Framer Motion |
 
 </div>
 
 ---
 
-## Contribution Activity
+## &nbsp;Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🐠 &nbsp;Ornamental Fish Commerce
+
+International e-commerce platform for premium ornamental fish distribution. Engineered for performance, global reach, and immersive browsing experience.
+
+**Stack:** `React` `Next.js` `Tailwind CSS` `Firebase`
+
+[View Project →](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌿 &nbsp;WonoCashew Export Platform
+
+Professional digital presence for an agribusiness export brand. Built for global credibility, modern presentation, and scalable content.
+
+**Stack:** `React` `Tailwind CSS` `Framer Motion`
+
+[View Project →](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 &nbsp;Analytics Dashboard System
+
+Data visualization environment transforming complex business metrics into clear, actionable interfaces — focused on readability and decision flow.
+
+**Stack:** `React` `Chart.js` `MySQL`
+
+[View Project →](#)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ &nbsp;More Coming Soon
+
+Always building. More projects are in progress — from SaaS tools to interactive web experiences.
+
+Stay tuned or reach out to collaborate.
+
+[Let's Talk →](mailto:YOUR_EMAIL)
+
+</td>
+</tr>
+</table>
+
+---
+
+## &nbsp;Engineering Principles
+
+```
+01 — Precision over decoration     Every element earns its place.
+02 — Systems that scale            Architecture built for the next version.
+03 — Performance is design         Speed and responsiveness are part of the UX.
+04 — Interfaces that endure        Built to feel current years after launch.
+```
+
+---
+
+## &nbsp;GitHub Analytics
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Husnizak&bg_color=0D1117&color=60A5FA&line=2563EB&point=38BDF8&area=true&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Husnizak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=38BDF8&text_color=94A3B8&ring_color=2563EB" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husnizak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=94A3B8&langs_count=6" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Husnizak&theme=tokyonight&hide_border=true&background=0F172A&ring=2563EB&fire=38BDF8&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=475569" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Husnizak&bg_color=0F172A&color=60A5FA&line=2563EB&point=38BDF8&area=true&hide_border=true&area_color=1E3A8A" />
 
 </div>
 
@@ -139,6 +139,8 @@ Interactive analytics environment transforming complex business data into modern
 
 <div align="center">
 
-### Engineering scalable digital experiences with modern architecture and refined user interfaces.
+*Building with intention &nbsp;·&nbsp; Husni.Zak &nbsp;·&nbsp; Indonesia*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:38BDF8,50:2563EB,100:0F172A&section=footer&animation=fadeIn" />
 
 </div>
