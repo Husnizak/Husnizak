@@ -34,25 +34,6 @@ I build web applications where **engineering precision meets visual intention** 
 
 </div>
 
-<br/>
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0F172A?style=flat-square&logo=framer&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=6DA55F)
-![Express](https://img.shields.io/badge/Express-0F172A?style=flat-square&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-0F172A?style=flat-square&logo=firebase&logoColor=FFCA28)
-![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Figma](https://img.shields.io/badge/Figma-0F172A?style=flat-square&logo=figma&logoColor=F24E1E)
-![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F05032)
-
-</div>
-
 ---
 
 ## &nbsp;Selected Work
@@ -138,6 +119,21 @@ Stay tuned or reach out to collaborate.
 </div>
 
 ---
+# Current Development Focus
+
+<div align="center">
+
+| Focus Area | Progress |
+|---|---|
+| Frontend Architecture | ██████████ 95% |
+| UI/UX Engineering | █████████ 90% |
+| Backend Development | ████████ 80% |
+| System Design | ███████ 75% |
+| Cloud & Deployment | ██████ 65% |
+
+</div>
+
+---
 
 ## &nbsp;GitHub Analytics
 
@@ -160,31 +156,6 @@ Stay tuned or reach out to collaborate.
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Husnizak&theme=github_dark" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Husnizak&theme=github_dark&utcOffset=7" />
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Husnizak&bg_color=0D1117&color=60A5FA&line=2563EB&point=38BDF8&area=true&hide_border=true" />
-
-</div>
-
----
-# Current Development Focus
-
-<div align="center">
-
-| Focus Area | Progress |
-|---|---|
-| Frontend Architecture | ██████████ 95% |
-| UI/UX Engineering | █████████ 90% |
-| Backend Development | ████████ 80% |
-| System Design | ███████ 75% |
-| Cloud & Deployment | ██████ 65% |
 
 </div>
 
