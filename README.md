@@ -12,6 +12,7 @@
 [![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=60A5FA)](mailto:YOUR_EMAIL)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=60A5FA)](https://YOUR_PORTFOLIO)
 [![Status](https://img.shields.io/badge/●%20Available%20for%20Projects-1E3A8A?style=for-the-badge&logoColor=white)](https://github.com/Husnizak)
+[![Visitors](https://komarev.com/ghpvc/?username=Husnizak&style=for-the-badge&color=1E3A8A&label=PROFILE+VIEWS)](https://github.com/Husnizak)
 
 </div>
 
@@ -23,30 +24,34 @@ I build web applications where **engineering precision meets visual intention** 
 
 Currently focused on frontend systems, backend scalability, and the craft of building things that hold up over time.
 
-```txt
-Location   →  Indonesia / Remote
-Focus      →  Full-Stack Development, UI/UX Engineering
-Status     →  Open to freelance & collaboration
-```
-
 ---
 
 ## &nbsp;Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript&theme=dark" />
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,postgresql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript&theme=dark" />&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,postgresql&theme=dark" />&nbsp;
 <img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark" />
 
-<br/><br/>
+</div>
 
-| Frontend | Backend | Database | Tooling |
-|:---:|:---:|:---:|:---:|
-| React | Node.js | MySQL | Figma |
-| Next.js | Express.js | PostgreSQL | Git / GitHub |
-| Tailwind CSS | Firebase | Firestore | VS Code |
-| TypeScript | REST API | — | Framer Motion |
+<br/>
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0F172A?style=flat-square&logo=framer&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=6DA55F)
+![Express](https://img.shields.io/badge/Express-0F172A?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-0F172A?style=flat-square&logo=firebase&logoColor=FFCA28)
+![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Figma](https://img.shields.io/badge/Figma-0F172A?style=flat-square&logo=figma&logoColor=F24E1E)
+![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F05032)
 
 </div>
 
@@ -109,12 +114,30 @@ Stay tuned or reach out to collaborate.
 
 ## &nbsp;Engineering Principles
 
-```
-01 — Precision over decoration     Every element earns its place.
-02 — Systems that scale            Architecture built for the next version.
-03 — Performance is design         Speed and responsiveness are part of the UX.
-04 — Interfaces that endure        Built to feel current years after launch.
-```
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/01-Precision_over_decoration-0F172A?style=for-the-badge&labelColor=1E3A8A&color=0F172A" /><br/><br/>
+<sub>Every element earns its place.<br/>Clarity is the highest form of craft.</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/02-Systems_that_scale-0F172A?style=for-the-badge&labelColor=1E3A8A&color=0F172A" /><br/><br/>
+<sub>Architecture designed for the<br/>next version, not just the current.</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/03-Performance_is_design-0F172A?style=for-the-badge&labelColor=1E3A8A&color=0F172A" /><br/><br/>
+<sub>Speed and responsiveness are<br/>part of the experience.</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/04-Interfaces_that_endure-0F172A?style=for-the-badge&labelColor=1E3A8A&color=0F172A" /><br/><br/>
+<sub>Built to feel current in three years,<br/>not just weeks after launch.</sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -132,6 +155,14 @@ Stay tuned or reach out to collaborate.
 <br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Husnizak&bg_color=0F172A&color=60A5FA&line=2563EB&point=38BDF8&area=true&hide_border=true&area_color=1E3A8A" />
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Husnizak/Husnizak/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Husnizak/Husnizak/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Husnizak/Husnizak/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
