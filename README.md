@@ -141,8 +141,8 @@ Stay tuned or reach out to collaborate.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Husnizak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=CBD5E1" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husnizak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Husnizak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=CBD5E1&cache_seconds=1800&count_private=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husnizak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1&cache_seconds=1800&langs_count=6" />
 
 <br/>
 
@@ -174,8 +174,6 @@ Stay tuned or reach out to collaborate.
 ---
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" />
 
 <br/><br/>
 
