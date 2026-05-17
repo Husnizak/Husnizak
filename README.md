@@ -20,9 +20,7 @@
 
 ## &nbsp;About
 
-I build web applications where **engineering precision meets visual intention** — products that are fast, refined, and built to last. My work sits at the intersection of scalable architecture and interface design, with attention to the moments that make digital experiences feel considered rather than assembled.
-
-Currently focused on frontend systems, backend scalability, and the craft of building things that hold up over time.
+I build web applications where **engineering precision meets visual intention** — products that are fast, refined, and built to last. My work sits at the intersection of scalable architecture and interface design, with attention to the moments that make digital experiences feel considered rather than assembled. Currently focused on frontend systems, backend scalability, and the craft of building things that hold up over time.
 
 ---
 
@@ -145,24 +143,48 @@ Stay tuned or reach out to collaborate.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Husnizak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=38BDF8&text_color=94A3B8&ring_color=2563EB" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husnizak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=94A3B8&langs_count=6" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Husnizak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=CBD5E1" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husnizak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Husnizak&theme=tokyonight&hide_border=true&background=0F172A&ring=2563EB&fire=38BDF8&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=475569" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Husnizak&theme=github_dark" />
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Husnizak&bg_color=0F172A&color=60A5FA&line=2563EB&point=38BDF8&area=true&hide_border=true&area_color=1E3A8A" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Husnizak&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Husnizak&theme=github_dark" />
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Husnizak/Husnizak/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Husnizak/Husnizak/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Husnizak/Husnizak/output/github-snake-dark.svg" />
-</picture>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Husnizak&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Husnizak&theme=github_dark&utcOffset=7" />
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Husnizak&bg_color=0D1117&color=60A5FA&line=2563EB&point=38BDF8&area=true&hide_border=true" />
+
+</div>
+
+---
+# Current Development Focus
+
+<div align="center">
+
+| Focus Area | Progress |
+|---|---|
+| Frontend Architecture | ██████████ 95% |
+| UI/UX Engineering | █████████ 90% |
+| Backend Development | ████████ 80% |
+| System Design | ███████ 75% |
+| Cloud & Deployment | ██████ 65% |
 
 </div>
 
