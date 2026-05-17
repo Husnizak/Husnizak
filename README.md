@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,40:1E3A8A,80:2563EB,100:38BDF8&text=Husni.Zak&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Web%20Developer%20%E2%80%94%20Crafting%20Digital%20Experiences&descAlignY=60&descSize=15&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=220&color=0:0F172A,50:1E3A8A,100:2563EB&text=Husni.Zak&fontSize=58&fontColor=ffffff&fontAlignY=45&fontAlign=70&desc=Full-Stack%20Web%20Developer%20%E2%80%94%20Crafting%20Digital%20Experiences&descAlignY=65&descAlign=70&descSize=14&animation=fadeIn" />
 
 <br/>
 
@@ -28,9 +28,26 @@ I build web applications where **engineering precision meets visual intention** 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript&theme=dark" />&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,postgresql&theme=dark" />&nbsp;
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,postgresql&theme=dark" />
+<br/>
 <img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark" />
+
+<br/><br/>
+
+![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0F172A?style=flat-square&logo=framer&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=6DA55F)
+![Express](https://img.shields.io/badge/Express-0F172A?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-0F172A?style=flat-square&logo=firebase&logoColor=FFCA28)
+![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Figma](https://img.shields.io/badge/Figma-0F172A?style=flat-square&logo=figma&logoColor=F24E1E)
+![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F05032)
 
 </div>
 
@@ -119,29 +136,17 @@ Stay tuned or reach out to collaborate.
 </div>
 
 ---
-# Current Development Focus
-
-<div align="center">
-
-| Focus Area | Progress |
-|---|---|
-| Frontend Architecture | ██████████ 95% |
-| UI/UX Engineering | █████████ 90% |
-| Backend Development | ████████ 80% |
-| System Design | ███████ 75% |
-| Cloud & Deployment | ██████ 65% |
-
-</div>
-
----
 
 ## &nbsp;GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Husnizak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=CBD5E1" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Husnizak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=CBD5E1" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husnizak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husnizak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1" />
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Husnizak&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=38BDF8&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=475569" />
 
 <br/>
 
@@ -149,13 +154,20 @@ Stay tuned or reach out to collaborate.
 
 <br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Husnizak&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Husnizak&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Husnizak&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Husnizak&theme=github_dark&utcOffset=7" />
 
 <br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Husnizak&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Husnizak&theme=github_dark&utcOffset=7" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Husnizak&bg_color=0D1117&color=60A5FA&line=2563EB&point=38BDF8&area=true&hide_border=true&area_color=1E3A8A" />
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Husnizak/Husnizak/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Husnizak/Husnizak/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Husnizak/Husnizak/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -163,7 +175,13 @@ Stay tuned or reach out to collaborate.
 
 <div align="center">
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" />
+
+<br/><br/>
+
 *Building with intention &nbsp;·&nbsp; Husni.Zak &nbsp;·&nbsp; Indonesia*
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:38BDF8,50:2563EB,100:0F172A&section=footer&animation=fadeIn" />
 
