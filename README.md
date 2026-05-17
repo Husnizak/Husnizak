@@ -23,78 +23,89 @@
 
 ---
 
-# About Me
+## About Me
 
-```yaml
-name: Husni.Zak
-role: Freelance Full-Stack Web Developer
+Driven by the ambition to craft digital experiences that feel timeless, modern, and purposeful.
 
-philosophy:
-  - Clean Architecture
-  - Scalable Systems
-  - Premium UI/UX
-  - Performance Driven Development
-  - Business Focused Solutions
+I specialize in developing scalable web applications with refined UI/UX, performance-focused architecture, and clean engineering systems. My work centers around creating premium digital products that combine visual clarity with functional precision — from modern business platforms to interactive web experiences.
 
-currently_building:
-  - Modern E-Commerce Platforms
-  - International Business Websites
-  - Interactive Dashboard Systems
-  - Responsive Web Applications
+Focused on continuous growth in frontend engineering, scalable systems, and modern development ecosystems using technologies such as React, Next.js, Tailwind CSS, Node.js, and Firebase.
 
-currently_leveling_up:
-  - Advanced Frontend Engineering
-  - Backend Scalability
-  - System Design
-  - SaaS Architecture
-  - Cloud Deployment
-
-location: Indonesia
-```
+Building with the mindset that great digital products should not only work flawlessly — but also leave a lasting impression.
 
 ---
 
-# Tech Ecosystem
+## Engineering Philosophy
 
 <div align="center">
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend&align=center&titleAlign=center&lineCount=2&theme=github_dark&line1=react%2CReact%2C61DAFB%3Bnextdotjs%2CNext.js%2CFFFFFF%3Btailwindcss%2CTailwind%2C38BDF8%3B&line2=typescript%2CTypeScript%2C3178C6%3Bjavascript%2CJavaScript%2CF7DF1E%3Bfigma%2CFigma%2CF24E1E%3B" />
-
-<br/>
-
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend+%26+Database&align=center&titleAlign=center&lineCount=2&theme=github_dark&line1=node.js%2CNode.js%2C339933%3Bexpress%2CExpress.js%2CFFFFFF%3Bfirebase%2CFirebase%2CFFCA28%3B&line2=mysql%2CMySQL%2C4479A1%3Bpostgresql%2CPostgreSQL%2C4169E1%3Bgit%2CGit%2CF05032%3B" />
+<img src="https://img.shields.io/badge/Scalable%20Architecture-0F172A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Clean%20Engineering-1E3A8A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Premium%20UI%2FUX-2563EB?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Performance%20Focused-38BDF8?style=for-the-badge&logoColor=white" />
 
 </div>
 
 ---
 
-# Featured Projects
+## Tech Ecosystem
 
-## Ornamental Fish E-Commerce Platform
+<div align="center">
 
-Premium international-style e-commerce platform engineered with responsive performance, scalable architecture, and modern user experience.
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript,nodejs,express,mysql,postgresql,firebase,figma,git,github,vscode&theme=dark" />
+
+<br/>
+<br/>
+
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend%20Development&align=center&titleAlign=center&lineCount=2&theme=github_dark&line1=react%2CReact%2C61DAFB%3Bnextdotjs%2CNext.js%2CFFFFFF%3Btailwindcss%2CTailwind%2C38BDF8%3B&line2=typescript%2CTypeScript%2C3178C6%3Bjavascript%2CJavaScript%2CF7DF1E%3Bfigma%2CFigma%2CF24E1E%3B" />
+
+<br/>
+
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend%20%26%20Infrastructure&align=center&titleAlign=center&lineCount=2&theme=github_dark&line1=node.js%2CNode.js%2C339933%3Bexpress%2CExpress.js%2CFFFFFF%3Bfirebase%2CFirebase%2CFFCA28%3B&line2=mysql%2CMySQL%2C4479A1%3Bpostgresql%2CPostgreSQL%2C4169E1%3Bgit%2CGit%2CF05032%3B" />
+
+</div>
+
+---
+
+## Current Focus
+
+```txt
+Frontend Engineering      ████████████████░░   92%
+UI/UX Systems             ███████████████░░░   88%
+Backend Scalability       █████████████░░░░░   80%
+System Architecture       ████████████░░░░░░   74%
+Cloud & Deployment        ██████████░░░░░░░░   65%
+```
+
+---
+
+## Featured Projects
+
+### Ornamental Fish Commerce Ecosystem
+
+A modern international e-commerce ecosystem engineered for premium ornamental fish distribution with responsive architecture and immersive UI/UX.
 
 `React` `Next.js` `Tailwind CSS` `Firebase`
 
 ---
 
-## WonoCashew Export Platform
+### WonoCashew Export Platform
 
-Professional B2B export platform designed for international business presentation with premium branding and responsive business architecture.
+Professional export business platform designed for global presentation, scalable infrastructure, and modern digital branding.
 
 `React` `Tailwind CSS` `Framer Motion`
 
 ---
 
-## Analytics Dashboard System
+### Analytics Dashboard System
 
-Interactive analytics dashboard transforming business data into actionable insights through modern visualization systems.
+Interactive analytics environment transforming complex business data into modern and actionable visualization systems.
 
 `React` `Chart.js` `MySQL`
 
 ---
 
-# GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -109,18 +120,14 @@ Interactive analytics dashboard transforming business data into actionable insig
 <br/>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Husnizak&theme=github_dark" />
+
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Husnizak&theme=github_dark" />
-
-<br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Husnizak&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Husnizak&theme=github_dark&utcOffset=7" />
 
 </div>
 
 ---
 
-# Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -130,44 +137,8 @@ Interactive analytics dashboard transforming business data into actionable insig
 
 ---
 
-# Current Development Focus
-
 <div align="center">
 
-| Focus Area | Progress |
-|---|---|
-| Frontend Architecture | ██████████ 95% |
-| UI/UX Engineering | █████████ 90% |
-| Backend Development | ████████ 80% |
-| System Design | ███████ 75% |
-| Cloud & Deployment | ██████ 65% |
-
-</div>
-
----
-
-# Connect
-
-<div align="center">
-
-<a href="https://github.com/Husnizak">
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:husnizakariya1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Engineering scalable digital systems with modern UI/UX and high-performance architecture.
+### Engineering scalable digital experiences with modern architecture and refined user interfaces.
 
 </div>
